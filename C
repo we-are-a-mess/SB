@@ -1,1 +1,7 @@
-
+include<stdio.h>
+int main(void)
+{
+  printf("SJK is bitch\n");
+  
+  return 0;
+}
